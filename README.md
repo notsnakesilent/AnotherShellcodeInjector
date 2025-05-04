@@ -14,9 +14,7 @@ Allocate executable memory in an external process
 Create a remote thread to execute the injected code.
 
 ### Generating shellcode
-To generate compatible shellcode, it is recommended to use Donut, a tool that converts .NET executables into positionally independent shellcode.
-Technical details
-
+To generate compatible shellcode, it is recommended to use [Donut](https://github.com/TheWover/donut), a tool that converts .NET executables into positionally independent shellcode.
 
 #### The injector works using the classic process injection technique:
 
