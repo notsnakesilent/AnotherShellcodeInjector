@@ -1,0 +1,7 @@
+C:\Users\elcap\source\repos\AnotherShellcodeInjector\AnotherShellcodeInjector\bin\x64\Release\AnotherShellcodeInjector.exe.config
+C:\Users\elcap\source\repos\AnotherShellcodeInjector\AnotherShellcodeInjector\bin\x64\Release\AnotherShellcodeInjector.exe
+C:\Users\elcap\source\repos\AnotherShellcodeInjector\AnotherShellcodeInjector\bin\x64\Release\AnotherShellcodeInjector.pdb
+C:\Users\elcap\source\repos\AnotherShellcodeInjector\AnotherShellcodeInjector\obj\x64\Release\AnotherShellcodeInjector.csproj.AssemblyReference.cache
+C:\Users\elcap\source\repos\AnotherShellcodeInjector\AnotherShellcodeInjector\obj\x64\Release\AnotherShellcodeInjector.csproj.CoreCompileInputs.cache
+C:\Users\elcap\source\repos\AnotherShellcodeInjector\AnotherShellcodeInjector\obj\x64\Release\AnotherShellcodeInjector.exe
+C:\Users\elcap\source\repos\AnotherShellcodeInjector\AnotherShellcodeInjector\obj\x64\Release\AnotherShellcodeInjector.pdb

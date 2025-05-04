@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35325.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherShellcodeInjector", "AnotherShellcodeInjector\AnotherShellcodeInjector.csproj", "{E336C5C6-3189-4344-8B37-ED3A576A51B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E336C5C6-3189-4344-8B37-ED3A576A51B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E336C5C6-3189-4344-8B37-ED3A576A51B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E336C5C6-3189-4344-8B37-ED3A576A51B7}.Debug|x64.ActiveCfg = Debug|x64
+		{E336C5C6-3189-4344-8B37-ED3A576A51B7}.Debug|x64.Build.0 = Debug|x64
+		{E336C5C6-3189-4344-8B37-ED3A576A51B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E336C5C6-3189-4344-8B37-ED3A576A51B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E336C5C6-3189-4344-8B37-ED3A576A51B7}.Release|x64.ActiveCfg = Release|x64
+		{E336C5C6-3189-4344-8B37-ED3A576A51B7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F807F43-891B-4E0B-BBE7-57B2D05408CB}
+	EndGlobalSection
+EndGlobal
