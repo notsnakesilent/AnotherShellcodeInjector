@@ -25,3 +25,5 @@ Technical details
 * Writes the shellcode with WriteProcessMemory()
 * Changes memory permissions to executable with VirtualProtectEx()
 * Creates a remote thread with CreateRemoteThread() that points to the shellcode.
+
+![image](https://github.com/user-attachments/assets/730d3ae2-87ed-45b0-be9c-81fdd6bf5a38)
